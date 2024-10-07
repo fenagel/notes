@@ -1,9 +1,9 @@
 {
-  "name": "@monorepo-template/scripts",
+  "name": "@notes/scripts",
   "version": "0.0.0",
   "dependencies": {
-    "@monorepo-template/core": "*",
-    "sst": "*"
+    "@notes/core": "*",
+    "sst": "3.1.67"
   },
   "scripts": {
     "shell": "sst shell tsx"
